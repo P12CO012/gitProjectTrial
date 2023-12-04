@@ -4,8 +4,8 @@ public class greetings {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("!!code by some other developer!!!!");
-		System.out.println("changes done before pull ");
+		System.out.println("our code is here");
+		System.out.println("changes done locally on Branch_1 ");
 	}
 
 }
